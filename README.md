@@ -1,4 +1,4 @@
-# pca9685_vr412
+# pca9685_vr408
 
 This is a Raspberry Pi Hat with PCA9685PW. Design is based on the original Adafruit 16-Channel 12-bit PWM/Servo Driver with I2C interface, adapted for velleman spider robots. 
 
